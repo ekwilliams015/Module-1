@@ -12,5 +12,5 @@ I am a student at Northwest
 
 ## link
 [LinkedIn](https://www.linkedin.com/in/elijah-williams-938b08161/)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/200px-LinkedIn_Logo_2013.svg.png)
+![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/200px-LinkedIn_Logo_2013.svg.png)
 ##
