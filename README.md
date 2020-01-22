@@ -12,3 +12,5 @@ I am a student at Northwest
 
 ## link
 [linkedIn](https://www.linkedin.com/in/elijah-williams-938b08161/)
+![linkedIn]()
+##
