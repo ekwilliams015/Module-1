@@ -18,5 +18,7 @@ I am a student at Northwest
 
 ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/200px-LinkedIn_Logo_2013.svg.png)
 
+[Northwest Website](https://www.nwmissouri.edu/) 
+![NW](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Northwest_Missouri_State_University_logo.svg/250px-Northwest_Missouri_State_University_logo.svg.png)
 picture source: https://en.wikipedia.org/wiki/LinkedIn
 ##
