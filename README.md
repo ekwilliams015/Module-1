@@ -20,5 +20,9 @@ I am a student at Northwest
 
 [Northwest Website](https://www.nwmissouri.edu/) 
 ![NW](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Northwest_Missouri_State_University_logo.svg/250px-Northwest_Missouri_State_University_logo.svg.png)
-picture source: https://en.wikipedia.org/wiki/LinkedIn
-##
+
+
+
+## Picture Sources
+LinkedIn: https://en.wikipedia.org/wiki/LinkedIn
+Northwest: https://en.wikipedia.org/wiki/Northwest_Missouri_State_University
