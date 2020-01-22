@@ -3,7 +3,7 @@ Description
 
 
 ## About me
-I am a student at Northwest
+I am an undergrad student studying Management Information Systems at Northwest Missouri State University.
 
 ## Lists
 - option1
