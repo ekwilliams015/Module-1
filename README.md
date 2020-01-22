@@ -23,8 +23,11 @@ I am a student at Northwest
 
 ![NW](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Northwest_Missouri_State_University_logo.svg/250px-Northwest_Missouri_State_University_logo.svg.png)
 
+[git guide](https://opensource.com/article/18/1/step-step-guide-git)
 
 
 ## Picture Sources
 LinkedIn: https://en.wikipedia.org/wiki/LinkedIn
+
+
 Northwest: https://en.wikipedia.org/wiki/Northwest_Missouri_State_University
