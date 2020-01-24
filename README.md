@@ -1,18 +1,22 @@
-# My first repo
-Description
+# Elijah Williams
+
 
 
 ## About me
 I am an undergrad student studying Management Information Systems at Northwest Missouri State University.
 
-## Lists
-- option1
-- option2
-- option3
+## Things I like
+- Rocket League 
+- Football (GO CHIEFS!)
+- Any and all food
 
-1. Option 4
-1. Option 5
-1. Option 6
+## Favorite Places I have travelled to
+1. Colorado Springs, CO
+1. South Padre, Texas
+1. Orlando, FLA
+1. Maryland
+
+
 ## Links/Images
 [LinkedIn](https://www.linkedin.com/in/elijah-williams-938b08161/)
 
